@@ -21,8 +21,7 @@ License
 
 Contact
 
-About The Project
-Practicing MERN stack. TMDb API used for this project. --> https://www.themoviedb.org/
+
 
 Built With
 MongoDB
@@ -43,7 +42,7 @@ npm
 npm install npm@latest -g
 Installation
 Clone the moviesMERN
-git clone https://github.com/kmaodus/moviesMERN.git
+git clone
 Install server NPM packages (inside root folder)
 npm install
 Install NPM packages in client directory
